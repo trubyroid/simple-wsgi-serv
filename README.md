@@ -1,4 +1,4 @@
-# simple-wsgi-server
+# simple-wsgi
 
-It returns important historical figure from race which you requested.  
+This server will return important historical figure from race which you will request.  
 Project based on **Doctor Who** universe.
